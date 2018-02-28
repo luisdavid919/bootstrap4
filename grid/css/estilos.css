@@ -1,0 +1,30 @@
+.carrousel {
+	background-image:url("../images/banner_verde.png");
+	height:100vh;
+	background-size:cover;
+	background-position:center; 
+}
+
+.navegador {
+	/*background-color:#6D3AE8;*/
+	background: linear-gradient(#2EC08E,#36B8E9);
+	/*background-color: #239e81;*/
+  	border-color: #1d836b;
+}
+
+a {
+	font-size: 2rem;
+}
+
+p {
+	font-size: 3rem;
+}
+
+button.navbar-toggler{
+    /*background: radial-gradient(#94FF52,#74FF94);*/
+    background-color:orange; 
+}
+
+.color{
+	background-color: #a8cad6 !important;
+}
